@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Facebook Bloat Blocker
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      1.0
 // @description  Remove "suggested" items and other crap from your Facebook feed.
 // @author       PenguinEncounter
 // @match        *://www.facebook.com/*
